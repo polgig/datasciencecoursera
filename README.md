@@ -1,2 +1,2 @@
 # datasciencecoursera
-My prettyfirst repository
+My pretty first repository
