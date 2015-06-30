@@ -1,2 +1,2 @@
-# datasciencecoursera1
-My second repository
+# datasciencecoursera
+My prettyfirst repository
